@@ -16,13 +16,13 @@ Keywords for Data Types:-
 Keywords for flow cotrol:-
 2. (11) if, else, switch, case, default, while,do ,for ,break, continue, return,
 Keywords for modifiers:-
-3. (11) public, private, protexted, static, final, abstracy, synchronized, native, strictfp, transient, volatile
+3. (11) public, private, protected, static, final, abstract, synchronized, native, strictfp, transient, volatile
 Keywords for Exception Handling:-
 4. (6) try, catch, finally, throw, throws, assert
 Class related keywords:-
 5. (6) class, interface, extends, implements, package, import
 Object Related Keywords:-
-6. (4) new, insatnceof, super, this
+6. (4) new, instanceof, super, this
 Return type keyword
 7. (1) void
 Unused Keywords
@@ -34,7 +34,7 @@ Reserved Literals
 Enum Keyword
 10.(1) enum(used to define a group of named constants).
 
-Note - In java the return tyoe is mandatory (if nothing to be retruned type will be void)
+Note - In java the return type is mandatory (if nothing to be retruned type will be void)
      - All 53 reserved words contains only lowercase letters.
      - There is no delete keyword as destruction of useless objects is responsibility of Garbage Collector.
      - NEW keywords - strictfp(1.2V), assert(1.4V), enum(1.5V)
